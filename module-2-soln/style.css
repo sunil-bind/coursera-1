@@ -15,7 +15,8 @@ p.c
 	border: 1px solid black;
 	margin: 0;
 	padding: 5px;
-	background-color: #A52A2A; 
+	background-color: #A52A2A;
+	font-weight: bold;
 }
 p.d{
 
@@ -24,6 +25,7 @@ p.d{
 	margin: 0;
 	padding: 5px;
 	background-color: #0000ff; 
+	font-weight: bold;
 
 }
 p.e
@@ -34,6 +36,7 @@ p.e
 	margin: 0;
 	padding: 5px;
 	background-color: #DEB887; 
+	font-weight: bold;
 }
 
 #i1{
