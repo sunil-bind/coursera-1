@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	font-size:175%; 
+}
+p.c
+{
+	float: right;
+	border: 1px solid black;
+	margin: 0;
+	padding: 5px;
+	background-color: #A52A2A; 
+}
+p.d{
+
+	float: right;
+	border: 1px solid black;
+	margin: 0;
+	padding: 5px;
+	background-color: #0000ff; 
+
+}
+p.e
+{
+
+	float: right;
+	border: 1px solid black;
+	margin: 0;
+	padding: 5px;
+	background-color: #DEB887; 
+}
+
+#i1{
+	background-color: #A567DA;
+	border: 1px solid black;
+	padding: 0px;
+	margin: 10px;
+}
+#i2
+{
+	background-color: #A567DA;
+	border: 1px solid black;
+	padding: 0px;
+	margin: 10px;
+}
+#i3
+{
+	background-color: #A567DA;
+	border: 1px solid black;
+	padding: 0px;
+	margin: 10px;
+}
+p{
+	clear: right;
+	padding: 5px;
+}
+@media(min-width: 992px)
+{
+#f1
+{
+ width:33.3%;
+ float:left;
+}
+#f2
+{
+ width:33.3%;
+ float:left;
+}
+#f3
+{
+ width:33.3%;
+ float:left;
+}
+}
+@media(min-width: 768px) and (max-width: 991px)
+{
+#f1
+{
+ width:50%;
+ float:left;
+}
+#f2
+{
+ width:50%;
+ float:left;
+}
+#f3
+{
+ width:100%;
+ float:left;
+}
+}
